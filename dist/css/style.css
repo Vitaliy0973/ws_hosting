@@ -1345,6 +1345,10 @@ main {
   padding: 10px 15px;
 }
 
+.table-price__border {
+  border-right: 0.5px solid var(--color-danube);
+}
+
 .table-price__row-title {
   color: var(--color-white);
 }
